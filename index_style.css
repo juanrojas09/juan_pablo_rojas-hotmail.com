@@ -1,0 +1,16 @@
+*{
+font-family: Helvetica;
+
+
+}
+
+input#boton{
+    padding:5px 50 px;
+    color:white;
+    font-size: 1em;
+    background-color: -#5dade2;
+    border: 0px;
+    -webkit-border-radius:5px;
+    
+
+}
